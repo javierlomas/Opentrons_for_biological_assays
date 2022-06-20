@@ -1,6 +1,6 @@
 # Opentrons_for_biological_assays
 
-Opentrons_for_biological_assays
+https://github.com/javierlomas/Opentrons_for_biological_assays
 __________
 
 Hi there!
