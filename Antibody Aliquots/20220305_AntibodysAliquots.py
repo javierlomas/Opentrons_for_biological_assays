@@ -6,7 +6,7 @@ from opentrons import protocol_api
 metadata = {
     'protocolName': 'Antibodies Aliquoting (Multichannel pippete using single channel)',
     'apiLevel': '2.11',
-    'author': 'Matt Zw & Javier Lomas'}
+    'author': 'Javier Lomas'}
 
 def run(ctx):
     # lights on
