@@ -10,4 +10,4 @@ I hope you enjoy as much as I did.
 
 Best,
 
-Javier Lomas (linkedin.com/javierlomas)
+Javier Lomas (www.linkedin.com/in/javierlomas)
