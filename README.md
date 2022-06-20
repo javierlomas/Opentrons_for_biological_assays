@@ -1,6 +1,7 @@
 # Opentrons_for_biological_assays
 
 Opentrons_for_biological_assays
+__________
 
 Hi there!
 
@@ -10,8 +11,6 @@ I hope you enjoy as much as I did.
 
 Best,
 
-Javier Lomas
 ____________
-Senior Scientist
-www.linkedin.com/in/javierlomas
+Javier Lomas, Senior Scientist, www.linkedin.com/in/javierlomas
 
