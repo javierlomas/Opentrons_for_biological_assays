@@ -58,7 +58,21 @@ def run(ctx):
     wellplate_source_ab10 = source['D4']
     wellplate_source_ab11 = source['D5']
     wellplate_source_ab12 = source['D6']
-    wellplate_destinations_ab1 = [destination['A1'],destination['A2']]    wellplate_destinations_ab2 = [destination['A3'],destination['A4']]    wellplate_destinations_ab3 = [destination['A5'],destination['A6']]    wellplate_destinations_ab4 = [destination['A7'],destination['A8']]    wellplate_destinations_ab5 = [destination['A9'],destination['A10']]    wellplate_destinations_ab6 = [destination['A11'],destination['A12']]    wellplate_destinations_ab7 = [destination['B1'],destination['B2']]    wellplate_destinations_ab8 = [destination['B3'],destination['B4']]    wellplate_destinations_ab9 = [destination['B5'],destination['B6']]    wellplate_destinations_ab10 = [destination['B7'],destination['B8']]    wellplate_destinations_ab11 = [destination['B9'],destination['B10']]    wellplate_destinations_ab12 = [destination['B11'],destination['B12']]	##################################################################################################################
+
+    wellplate_destinations_ab1 = [destination['A1'],destination['A2']]
+    wellplate_destinations_ab2 = [destination['A3'],destination['A4']]
+    wellplate_destinations_ab3 = [destination['A5'],destination['A6']]
+    wellplate_destinations_ab4 = [destination['A7'],destination['A8']]
+    wellplate_destinations_ab5 = [destination['A9'],destination['A10']]
+    wellplate_destinations_ab6 = [destination['A11'],destination['A12']]
+    wellplate_destinations_ab7 = [destination['B1'],destination['B2']]
+    wellplate_destinations_ab8 = [destination['B3'],destination['B4']]
+    wellplate_destinations_ab9 = [destination['B5'],destination['B6']]
+    wellplate_destinations_ab10 = [destination['B7'],destination['B8']]
+    wellplate_destinations_ab11 = [destination['B9'],destination['B10']]
+    wellplate_destinations_ab12 = [destination['B11'],destination['B12']]
+	
+    ##################################################################################################################
     #Ab1
     pick_up(m300)
     for i in range(len(wellplate_destinations_ab1)):
