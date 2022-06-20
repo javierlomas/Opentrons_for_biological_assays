@@ -11,8 +11,6 @@ I hope you enjoy as much as I did.
 Best,
 
 Javier Lomas
-
 Senior Scientist
-
 www.linkedin.com/in/javierlomas
 
